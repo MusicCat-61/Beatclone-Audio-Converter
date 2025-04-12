@@ -15,3 +15,4 @@ __Features__:
 - Select a folder to save WEM
 - The possibility of single and batch processing
 
+![image](https://github.com/user-attachments/assets/5a8151dd-4c84-45ec-8b1e-4cd423179db0) 
