@@ -1,7 +1,7 @@
 # Beatclone-Audio-Converter
 Конвертер аудио для чартов Beatclone / Audio Converter for Beatclone charts
 
-__Download__:   **[Last version](https://github.com/MusicCat-61/Beatclone-Audio-Converter/releases/latest/download/Beatclone_Audio_Converter.exe)**
+__Download__:   **[Last version](https://github.com/MusicCat-61/Beatclone-Audio-Converter/releases/latest/download/Beatclone.Audio.Converter.exe)**
 
 Простое использование (нужен только mp3 файл), все остальное программа сделает за вас
 
