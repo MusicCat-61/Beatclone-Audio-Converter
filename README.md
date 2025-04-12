@@ -12,3 +12,4 @@ Easy to use (you only need an mp3 file), the program will do the rest for you.
 __Features__:
 - Select a folder to save WEM
 - The possibility of single and batch processing
+![image](https://github.com/user-attachments/assets/72bd2472-c84f-4e36-a901-33a6e47f08a4)
