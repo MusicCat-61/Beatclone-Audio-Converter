@@ -8,11 +8,13 @@ __Download__:   **[Last version](https://github.com/MusicCat-61/Beatclone-Audio-
 __Возможности__:
 - Выбор папки для сохранения WEM
 - Возможность одиночной и пакетной обработки
+- История выбранных папок
 
 Easy to use (you only need an mp3 file), the program will do the rest for you.
 
 __Features__:
 - Select a folder to save WEM
 - The possibility of single and batch processing
+- Selected folders history
 
 ![image](https://github.com/user-attachments/assets/5a8151dd-4c84-45ec-8b1e-4cd423179db0) 
