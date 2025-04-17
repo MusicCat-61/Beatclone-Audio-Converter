@@ -4,6 +4,8 @@
 __Download__:   **[Last version](https://github.com/MusicCat-61/Beatclone-Audio-Converter/releases/latest/download/Beatclone.Audio.Converter.exe)**
 
 Простое использование (нужен только mp3 файл), все остальное программа сделает за вас
+Подготовка/Prepare to use:
+Download 
 
 __Возможности__:
 - Выбор папки для сохранения WEM
@@ -17,4 +19,3 @@ __Features__:
 - The possibility of single and batch processing
 - Selected folders history
 
-![image](https://github.com/user-attachments/assets/5a8151dd-4c84-45ec-8b1e-4cd423179db0) 
