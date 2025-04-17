@@ -7,6 +7,7 @@ __Download app__ :   **[Last version](https://github.com/MusicCat-61/Beatclone-A
 
 
 __Подготовка/Prepare to use__:
+
 Скачайте [WWiseFiles](https://mega.nz/file/9b8SERgB#rViNoIMcYzYSER0N0DR7TqoZlALGE2UAu4X_nUFBjKw) и распакуйте на не системный диск/папку
 
 Во вкладке настроек укажите путь к файлу WwiseConsole.exe
